@@ -1,0 +1,11 @@
+@import url("https://fonts.googleapis.com/css2?family=Fredoka&display=swap");
+
+* {
+  font-family: "Fredoka", sans-serif;
+}
+body {
+  background-color: gainsboro;
+}
+.center {
+  text-align: "center";
+}
